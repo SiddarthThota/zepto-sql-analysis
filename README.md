@@ -46,10 +46,11 @@ The dataset contains:
 
 ## 📊 Key Insights
 
-* Certain categories contribute more to total revenue
-* High discount does not always mean better value
-* Inventory distribution varies significantly across categories
-
+* Identified top 10 products with highest discount percentages
+* Found categories contributing the highest estimated revenue
+* Observed that high discount does not always imply best value
+* Price-per-gram analysis revealed inefficiencies in bulk pricing
+* Inventory distribution shows variation across categories
 ---
 
 ## 🛠 Tools Used
