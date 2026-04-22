@@ -1,3 +1,11 @@
+-- ==========================================
+-- ZEPTO PRODUCT DATA ANALYSIS PROJECT
+-- Author: Siddarth
+-- Description:
+-- This project explores product pricing, discounts,
+-- inventory status, and category-level insights
+-- using SQL.
+-- ==========================================
 drop table if exists zepto;
 
 create table zepto_v2 (
